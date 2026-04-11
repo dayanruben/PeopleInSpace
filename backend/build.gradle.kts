@@ -10,6 +10,9 @@ plugins {
 
 kotlin {
     jvm() {
+        compilerOptions {
+            jvmTarget.set(org.jetbrains.kotlin.gradle.dsl.JvmTarget.JVM_21)
+        }
         binaries {
             executable {
                 mainClass.set("ServerKt")
