@@ -56,38 +56,6 @@ val currentPeopleInSpace = listOf(
 
 
     Assignment(
-        craft = "Orion",
-        name = "Reid Wiseman",
-        personImageUrl = "https://www.nasa.gov/wp-content/uploads/2020/12/wiseman_chief_astronaut_0.jpg",
-        personBio = "Reid Wiseman is a 27-year Navy veteran, a pilot, a father, an engineer, and a Baltimore native. He was selected as an astronaut by NASA in 2009 and served as Flight Engineer aboard the International Space Station for Expedition 41 from May through November of 2014. During the 165-day mission, Reid and his crewmates completed over 300 scientific experiments in areas such as human physiology, medicine, physical science, Earth science and astrophysics. This was Reid’s first spaceflight, which also included almost 13 hours as lead spacewalker during two trips outside the orbital complex. Reid also fostered a strong social media presence throughout his mission by sharing the raw emotions of spaceflight as seen through the eyes of a rookie flier. He earned a Bachelor of Science degree from Rensselaer Polytechnic Institute in Troy, New York, and a Master of Science in Systems Engineering from the Johns Hopkins University in Baltimore. He served as Chief of the Astronaut Office. Wiseman has been assigned as Commander of NASA’s Artemis II mission.",
-        nationality = "American",
-    ),
-    Assignment(
-        craft = "Orion",
-        name = "Victor Glover",
-        personImageUrl = "https://www.nasa.gov/wp-content/uploads/2016/02/nasa-astronaut-victor-j.-glover-.jpeg",
-        personBio = "Victor J. Glover, Jr. was selected as an astronaut in 2013 while serving as a Legislative Fellow in the United States Senate. He most recently served as pilot of the Crew-1 dragon spacecraft, named Resilience, which flew to the International Space Station, where he also served as Flight Engineer for Expedition 64/65. Glover has been assigned as Pilot of NASA’s Artemis II mission around the Moon. \n" +
-                "\n" +
-                "The California native earned an undergraduate engineering degree as a two sport athlete, while serving his community. Glover is a Naval Aviator and was a test pilot in the F/A‐18 Hornet, Super Hornet and EA‐18G Growler. He and his family have been stationed in many locations in the United States and Japan and he has deployed in combat and peacetime. ",
-        nationality = "American",
-    ),
-    Assignment(
-        craft = "Orion",
-        name = "Christina Koch",
-        personImageUrl = "https://www.nasa.gov/wp-content/uploads/2023/01/jsc2018e095073_alt.jpg",
-        personBio = "Christina Koch is an explorer and engineer who became astronaut in 2013. She is currently training for NASA’s Artemis II mission, planned to go around the moon next year. Her previous experience in spaceflight was living and working on the International Space Station for almost all of 2019 in Expeditions 59, 60, and 61.  For this mission, she flew on the Russian Soyuz rocket and trained extensively in Russia.  Christina spent a total of 328 consecutive days in space and participated in the first all-female spacewalks. After this spaceflight and before being assigned to Artemis II, she served as Branch Chief of the Assigned Crew Branch in the Astronaut Office and did a rotation as Assistant for Technical Integration for the Center Director at NASA’s Johnson Space Center. Prior to becoming an astronaut, Christina’s experience spanned both space science mission instrument development and remote scientific field engineering in the Antarctic and Arctic. Her hobbies include surfing, rock and ice climbing, programming, community service, triathalons, yoga, backpacking, woodworking, photography and travel.",
-        nationality = "American",
-    ),
-    Assignment(
-        craft = "Orion",
-        name = "Jeremy Hansen",
-        personImageUrl = "https://www.asc-csa.gc.ca/images/recherche/tiles/3feae0b8-9e9e-40cc-89c1-bece91eaf126.jpg",
-        personBio = "Jeremy Roger Hansen CD FRCGS (born January 27, 1976) is a Canadian astronaut, fighter pilot, physicist and former aquanaut. He was selected to join the Canadian Space Agency in the 2009 CSA selection along with David Saint-Jacques. Prior to his selection as one of Canada's astronauts, Hansen was a Royal Canadian Air Force captain, piloting the CF-18 fighter jet at CFB Cold Lake, Alberta.",
-        nationality = "Canadian",
-    ),
-
-
-    Assignment(
         craft = "Tiangong",
         name = "Zhang Lu",
         personImageUrl = "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/zhang_lu_offici_image_thumbnail_20251030081918.jpeg",
